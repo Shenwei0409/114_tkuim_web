@@ -1,0 +1,32 @@
+.strength-bar{
+    position:relative;height:6px;
+    background:#e9ecef;
+    border-radius:4px;
+    overflow:visible
+}
+
+.strength-bar #strength-fill{
+    height:100%;
+    width:0%;
+    transition:width .3s
+}
+
+.strength-bar #strength-text{
+    position:absolute;
+    top:-20px;right:0;
+    font-size:20px
+}
+
+.strength-weak #strength-fill{
+    width:33%;
+    background:#dc3545
+}
+
+.strength-medium #strength-fill{
+    width:66%;background:#ffc107
+}
+
+.strength-strong #strength-fill{
+    width:100%;background:#28a745
+}
+
