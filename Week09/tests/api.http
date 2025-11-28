@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 41
+ETag: W/"29-VJSlHzgF1KXa6QGsfz0QXHjXlto"
+Date: Fri, 28 Nov 2025 02:41:22 GMT
+Connection: close
+
+{"status":"ok","timestamp":1764297682544}

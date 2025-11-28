@@ -1,0 +1,32 @@
+{
+  "name": "114_tkuim_web",
+  "version": "1.0.0",
+  "description": "資管3C 網路程式設計",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shenwei0409/114_tkuim_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shenwei0409/114_tkuim_web/issues"
+  },
+  "homepage": "https://github.com/Shenwei0409/114_tkuim_web#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nanoid": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "type": "module"
+}
