@@ -7,7 +7,12 @@
 - 嘗試傳送檔案
 - 加入 test.html
 
-## Week07_Lab
+## Week07
 - 顯示密碼強度條（弱/中/強），即時更新顏色與文字
 - 使用 localStorage 暫存欄位內容，重新整理後可恢復未送出的資料
 - 實作「重設」按鈕，清除欄位與錯誤訊息，並重置強度條
+
+## Week09
+- 如何啟動後端（npm install、npm run dev）
+- 如何啟動前端（Live Server / Vite）
+- API 端點文件與測試方式
