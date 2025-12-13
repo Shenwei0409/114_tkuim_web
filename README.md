@@ -16,3 +16,8 @@
 - 如何啟動後端（npm install、npm run dev）
 - 如何啟動前端（Live Server / Vite）
 - API 端點文件與測試方式
+
+## Week11
+- 啟動指令 : docker compose up -d
+- 環境需求 : node(v24.11.1)、npm(11.6.2)、docker(29.0.1)、MongoDB Compass
+- 測試方式 : REST client && POSTMAN
